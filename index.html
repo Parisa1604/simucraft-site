@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SimuCraft – Creative Engineering Studio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">SimuCraft</div>
+    <nav>
+      <ul>
+        <li><a href="about.html" data-i18n="nav_about">About</a></li>
+        <li><a href="services.html" data-i18n="nav_services">Services</a></li>
+        <li><a href="portfolio.html" data-i18n="nav_portfolio">Portfolio</a></li>
+        <li><a href="contact.html" data-i18n="nav_contact">Contact</a></li>
+
+        <li>
+            <select id="langSwitcher" class="lang-select">
+                <option value="en">EN</option>
+                <option value="de">DE</option>
+            </select>
+
+        </li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="landing">
+    <section class="hero">
+      <h1 data-i18n="landing_title"></h1>
+      <p data-i18n="landing_subtitle"></p>
+      <div class="cta-buttons">
+        <a href="services.html" class="btn primary" data-i18n="landing_cta_services"></a>
+        <a href="portfolio.html" class="btn secondary" data-i18n="landing_cta_portfolio"></a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 SimuCraft</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

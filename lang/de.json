@@ -1,0 +1,20 @@
+{
+  "nav_about": "Über uns",
+  "nav_services": "Leistungen",
+  "nav_portfolio": "Portfolio",
+  "nav_contact": "Kontakt",
+  "about_title": "Willkommen bei SimuCraft",
+  "about_text": "Wir entwerfen und simulieren mechanische Systeme für Kunden in Europa und darüber hinaus.",
+  "services_title": "Unsere Leistungen",
+  "services_1": "Mechanische Konstruktion",
+  "services_2": "Simulation & Test",
+  "services_3": "CAD-Modellierung",
+  "portfolio_title": "Portfolio",
+  "portfolio_text": "Hier sehen Sie einige unserer Projekte.",
+  "contact_title": "Kontaktieren Sie uns",
+  "contact_button": "Nachricht senden",
+  "landing_title": "Kreative Simulation. Technik mit Weitblick.",
+  "landing_subtitle": "Wir entwerfen und simulieren mechanische Systeme in Europa und Amerika.",
+  "landing_cta_services": "Unsere Leistungen",
+  "landing_cta_portfolio": "Projekte ansehen"
+}
